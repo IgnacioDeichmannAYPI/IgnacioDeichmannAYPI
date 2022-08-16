@@ -8,6 +8,6 @@
 - 😄 ¿Cuál es tu hobby? Dibujar.
 -->
 
-- 🔭 **¿Qué me interesa aprender?** Me interesa aprender "Estructura De Datos"...
+- 🔭 **¿Qué me interesa aprender?** Me interesa aprender "Estructura De Datos".
 - ⚡ **¿De qué trabajo?** Actualmente estudio.
 - 😄 **¿Cuál es tu hobby?** Dibujar.
